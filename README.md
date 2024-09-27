@@ -1,3 +1,7 @@
+#Deployment
+
+This project is deployed on Netlify. You can view it live at [IMDB - Clone](https://imdb-clone0.netlify.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
