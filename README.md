@@ -1,4 +1,4 @@
-#Deployment
+# Deployment
 
 This project is deployed on Netlify. You can view it live at [IMDB - Clone](https://imdb-clone0.netlify.app/).
 
